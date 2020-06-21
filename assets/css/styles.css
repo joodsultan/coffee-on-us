@@ -1,3 +1,46 @@
+    
+      h1 {text-align: center;}
+    
+      .body { background-color: gray;}
+      p {text-align: right;}
+      h3{text-align: right;}
+  
+  .margin {margin: 2cm;}
+   .green {background-color: green;}
+   
+  .red {background-color: red;}
+  .blue {background-color: royalblue;}
+  .border {background-color: white;}
+   
+  table.foobar {
+        border: solid black 1px;
+        border-spacing: 10px;
+      }
+      table.foobar td {
+        border: solid black 1px;
+      }
+      .align {text-align: left;}
+      .padding { 
+   padding: auto; 
+   padding-bottom: 100px; 
+   padding-right: 100px;
+   padding-left: 300pt;
+   padding-top: 100px;
+    list-style-type: none; }
+    A {text-decoration: none;}
+    
+    .img1 {
+      display: inline-block;
+    }
+    .img2 {
+      display: inline-block;
+    }
+    .img3 {
+      display: inline-block;
+    }
+
+   
+    
 /* td {
   background-color: orange;
 } */
